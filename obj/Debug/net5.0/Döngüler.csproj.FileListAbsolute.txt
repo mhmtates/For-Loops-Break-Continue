@@ -1,0 +1,16 @@
+C:\Users\Mehmet\Desktop\Pratikler\Döngüler\bin\Debug\net5.0\Döngüler.exe
+C:\Users\Mehmet\Desktop\Pratikler\Döngüler\bin\Debug\net5.0\Döngüler.deps.json
+C:\Users\Mehmet\Desktop\Pratikler\Döngüler\bin\Debug\net5.0\Döngüler.runtimeconfig.json
+C:\Users\Mehmet\Desktop\Pratikler\Döngüler\bin\Debug\net5.0\Döngüler.runtimeconfig.dev.json
+C:\Users\Mehmet\Desktop\Pratikler\Döngüler\bin\Debug\net5.0\Döngüler.dll
+C:\Users\Mehmet\Desktop\Pratikler\Döngüler\bin\Debug\net5.0\ref\Döngüler.dll
+C:\Users\Mehmet\Desktop\Pratikler\Döngüler\bin\Debug\net5.0\Döngüler.pdb
+C:\Users\Mehmet\Desktop\Pratikler\Döngüler\obj\Debug\net5.0\Döngüler.csproj.AssemblyReference.cache
+C:\Users\Mehmet\Desktop\Pratikler\Döngüler\obj\Debug\net5.0\Döngüler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet\Desktop\Pratikler\Döngüler\obj\Debug\net5.0\Döngüler.AssemblyInfoInputs.cache
+C:\Users\Mehmet\Desktop\Pratikler\Döngüler\obj\Debug\net5.0\Döngüler.AssemblyInfo.cs
+C:\Users\Mehmet\Desktop\Pratikler\Döngüler\obj\Debug\net5.0\Döngüler.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\Pratikler\Döngüler\obj\Debug\net5.0\Döngüler.dll
+C:\Users\Mehmet\Desktop\Pratikler\Döngüler\obj\Debug\net5.0\ref\Döngüler.dll
+C:\Users\Mehmet\Desktop\Pratikler\Döngüler\obj\Debug\net5.0\Döngüler.pdb
+C:\Users\Mehmet\Desktop\Pratikler\Döngüler\obj\Debug\net5.0\Döngüler.genruntimeconfig.cache
